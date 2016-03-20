@@ -1,8 +1,8 @@
 /* TEAM */
-Developer: My name
-Site: http://mysite.com
-Twitter: @myhandle
-Location: Any town, USA
+Developer: Mic Szillat
+Site: https://nomaster.cc
+Twitter: @nomaster
+Location: Düsseldorf, Germany
 
 /* THANKS */
 Middleman: http://middlemanapp.com
