@@ -1,6 +1,6 @@
 .profile-row
   .profile
-    = image_tag Gravatar.new(gravatar_email_address).image_url(size: 200)
+    = image_tag Gravatar.new(gravatar_email_address).image_url(size: 200, secure: true)
   .bio
     %h2
       Hi, I am  #{full_name}.
