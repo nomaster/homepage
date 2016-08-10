@@ -1,1 +1,1 @@
-This is basically a fork from [makersquare/personal-site-template](https://github.com/makersquare/personal-site-template.git).
+This is some simple homepage I made using [Middleman](https://middlemanapp.com).

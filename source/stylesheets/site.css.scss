@@ -1,0 +1,15 @@
+@charset "utf-8";
+@import "normalize";
+@import "bootstrap";
+
+body {
+  margin-top: 3em;
+}
+
+.photo object {
+  width: 100%
+}
+
+.profile img {
+  border-radius: 200px;
+}
